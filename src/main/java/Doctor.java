@@ -11,7 +11,7 @@ public class Doctor {
 	{
 		this.con = con;		
 	}	
-	
+	//hello
 	public void viewDoctors()
 	{
 		String query = "select * from Doctors";
